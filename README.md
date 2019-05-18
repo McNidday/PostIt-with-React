@@ -1,4 +1,4 @@
-# PostIt-with-Angular
+# PostIt-with-React
 ## How to?
 **Getting Started**
 
